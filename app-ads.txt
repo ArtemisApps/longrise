@@ -1,0 +1,10 @@
+google.com, pub-7230755628880699, DIRECT, f08c47fec0942fa0
+applovin.com, 51e1a57783643c5ce75319ccff4ff839, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
+facebook.com, 158943078151704, RESELLER, c3e20eee3f780d68
