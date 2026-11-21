@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title">
+<title id="title">Two designers reviewing a mobile interface in a sunlit studio</title>
+<defs><pattern id="lines" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><path d="M0 0v9" stroke="#bd805b" stroke-width="2"/></pattern></defs>
+<rect width="640" height="440" rx="22" fill="#efe6d2"/>
+<circle cx="450" cy="141" r="115" fill="#edb583"/><circle cx="450" cy="141" r="115" fill="url(#lines)"/>
+<path d="M25 277Q190 139 366 232t249-25M25 292Q190 154 366 247t249-25" fill="none" stroke="#84988b" stroke-width="2"/>
+<!-- A standing designer, with one arm reaching toward the prototype. -->
+<path d="M116 340q5-123 42-145l68-5q45 31 73 97l-35 17-30-40 9 76" fill="#28736e"/>
+<path d="m169 190 8-39 32 1 7 44q-21 24-47-6" fill="#b97854"/>
+<path d="M159 120q0-45 41-43 38 3 36 48l7 16-9 3q-2 39-28 39-38-6-47-63" fill="#c78b64"/>
+<path d="M158 141q-24-44 2-65 8-19 31-14 27-11 46 11 13 14 2 34-17 1-29-13-7 24-33 28l-3 25z" fill="#233a39"/>
+<path d="M222 122h4m-11 32q8 4 14-2" fill="none" stroke="#473b32" stroke-width="3" stroke-linecap="round"/>
+<path d="m264 285 27-11 41-31 22 4-10 15-46 40q-22 13-34-3" fill="#c78b64"/>
+<!-- Seated designer holding a phone. -->
+<path d="M389 340q3-81 32-107l48-10q49 9 73 117" fill="#ba684a"/>
+<path d="m431 227 4-31 30-6 8 36q-18 24-42 1" fill="#945c47"/>
+<path d="M414 162q5-36 36-34 36 4 33 42-5 37-27 48-26 5-34-21l-9-4 3-12z" fill="#ab7155"/>
+<path d="M414 173q-6-30 11-47 18-17 44-7 27 7 22 36 4 21-15 36l-6-25q-19-2-26-17-11 17-30 24" fill="#213b39"/>
+<circle cx="487" cy="128" r="22" fill="#213b39"/>
+<path d="m423 178 4-1m-4 20 7 2" stroke="#44382e" stroke-width="3" stroke-linecap="round"/>
+<path d="m424 267-27 35-30-32-16 12 31 43q12 12 24 2l36-37" fill="#ab7155"/>
+<g transform="rotate(-12 351 260)"><rect x="338" y="230" width="30" height="55" rx="5" fill="#153436"/><rect x="342" y="235" width="22" height="43" rx="2" fill="#a4c9b6"/><path d="M346 247h14m-14 6h9" stroke="#43867b" stroke-width="2"/></g>
+<path d="M55 338h534l18 15H37z" fill="#e2b58c"/><path d="M55 353h534v8H55zM84 361h9v46h-9zm463 0h9v46h-9z" fill="#284c49"/>
+<path d="M122 329h111l-12-62H109z" fill="#789d90"/><path d="M122 329h130v7H122z" fill="#345954"/><circle cx="172" cy="299" r="5" fill="#dfe7cd"/>
+</svg>
